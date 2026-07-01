@@ -1,6 +1,6 @@
-#Advanced Power Menu 1.7
+# Advanced Power Menu 1.7
 
-##About
+## About
 ・Power + Volume Up opens advanced power menu.
 ・Compatibility mode replaces the default power menu by long-press the power button.
 ・The menu button is in long-press mode by default, but can switch to tap mode.
@@ -9,10 +9,10 @@
 ・Please report whether the module works or if any problems occur.
 ・This software is protected by license. Modification, commercial use, and redistribution are strictly prohibited under any circumstances.
 
-##Required
+## Required
 ・LSPosed (API 93)
 
-##Tested
+## Tested
 ・Nothing Phone 1 - Nothing OS 3.0 (A15)
 ・Nothing Phone 2a - Nothing OS 4.0 (A16)
 ・Poco X6 Pro - HyperOS 3.︎0.2.0 (A16)
