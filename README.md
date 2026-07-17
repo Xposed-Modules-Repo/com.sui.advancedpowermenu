@@ -4,6 +4,8 @@ Advanced Power Menu is an LSPosed module that provides a highly compatible exten
 
 Inspired by the stock Android power menu, it offers various reboot and lock actions with internal Android APIs whenever possible, while providing robust fallback mechanisms for ROM-specific behavior.
 
+Support: [t.me/SuiAndroidMods](https://t.me/SuiAndroidMods)
+
 ## Features
 
 - Reboot
