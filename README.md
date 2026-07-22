@@ -6,6 +6,8 @@ Inspired by the stock Android power menu, it offers various reboot and lock acti
 
 ![](screenshot/screenshot.png)
 
+Source: [Sui9x/AdvancedPowerMenu](https://github.com/Sui9x/AdvancedPowerMenu)
+
 Support: [t.me/SuiAndroidMods](https://t.me/SuiAndroidMods)
 
 ## Features
