@@ -137,6 +137,7 @@ All settings are cached and applied immediately. No reboot or SystemUI restart i
 - Xperia XZ1 Compact - LineageOS 22.2 UNOFFICIAL (A15)
 - Xperia XZ1 Compact - EvolutionX 10.16 UNOFFICIAL (A15)
 - Xperia XZ Premium - crDroid 9.13 UNOFFICIAL (A13)
+- Pixel 9 Pro XL - Android 17 API 37
 - Virtual Device - Android 16.0 API 36.0
 - Virtual Device - Android 17.0 API 37.0
 - Virtual Device - Android 17.0 API 37.2-beta2
