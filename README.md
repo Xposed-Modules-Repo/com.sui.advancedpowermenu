@@ -120,6 +120,7 @@ This behavior closely matches AOSP's stock implementation.
 - Soft reboot mode selection
 - Long-press confirmation mode
 - Force always use fallback
+- Appearance customize
 
 All settings are cached and applied immediately. No reboot or SystemUI restart is required.
 
